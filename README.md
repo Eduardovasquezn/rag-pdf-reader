@@ -3,7 +3,7 @@
 Welcome to the RAG PDF Chat Application! This application allows users to interactively chat with PDF documents using 
 Retrieval-Augmented Generation (RAG) techniques. By leveraging state-of-the-art models and technologies, users can 
 explore PDF documents through natural language conversations. This project serves as a complement to the concepts 
-discussed in the accompanying [YouTube video](https://www.youtube.com/channel/UCYZ_si4TG801SAuLrNl-v-g), offering a practical implementation 
+discussed in the accompanying [YouTube video](https://youtu.be/6BZUxHLyKLU), offering a practical implementation 
 of the discussed techniques.
 
 ![RAG PDF Reader](images/rag-pdf-diagram.png)
